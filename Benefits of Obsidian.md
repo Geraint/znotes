@@ -1,5 +1,7 @@
 # Benefits of Obsidian
 
+Tags: #obsidian
+
 ## Call-outs are nice
 
 > [!note]
