@@ -1,0 +1,5 @@
+# TMUX: Rename Window
+
+```
+<PREFIX> + ,
+```
